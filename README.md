@@ -1,14 +1,5 @@
-<div align="center">
-<table>
-<tr>
-<td width="75%">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTAxMXBydG56N2dwOXc3c2tscjc3amI1Mzl3ZXFwZzZrY3ZzNnZvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iicDrNGWxHmDrIni6j/giphy.gif" width="100%"/>
-</td>
-<td width="25%">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhpZTVhdzF3enJ6bjd2YmM5b3J6cHkxYjc2dnFzMDNoMTM5djF6ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wrwRs5SZHfP6E/giphy.gif" width="100%"/>
-</td>
-</tr>
-</table>
+<div align="left">
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTAxMXBydG56N2dwOXc3c2tscjc3amI1Mzl3ZXFwZzZrY3ZzNnZvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iicDrNGWxHmDrIni6j/giphy.gif" width="100%"/>
 </div>
 
 ## Hi there 👋, I'm Chhaya Pradhan
