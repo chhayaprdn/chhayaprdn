@@ -1,7 +1,7 @@
 <table width="100%">
 <tr>
 <td width="75%">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXBlejhwczg1ajV2ODFpZTVjdDA5bm5mM2dsdmRja212MzlmcmxsbiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/eV3E5K5DShSlslpGK4/giphy.gif" width="100%" height="200" style="object-fit: cover;"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXBlejhwczg1ajV2ODFpZTVjdDA5bm5mM2dsdmRja212MzlmcmxsbiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/FY9chKp6rulXy/giphy.gif" width="100%" height="200" style="object-fit: cover;"/>
 </td>
 <td width="25%">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmE1b3A1YnA1OWNuemVjZGh2Z2IzZ2hudmRiaXdrcjVyemp3NHJ1ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wrwRs5SZHfP6E/giphy.gif" width="100%" height="200" style="object-fit: cover;"/>
