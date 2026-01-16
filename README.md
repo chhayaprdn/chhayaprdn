@@ -1,4 +1,20 @@
-## Hi there 👋
+<div align="center">
+<img src="https://media.giphy.com/media/KztT2c4u8mYYUiMKdJ/giphy.gif" width="200"/>
+## Hi there 👋, I'm Chhaya Pradhan
+</div>
+
+##🚀 What I'm Up To
+const aboutMe = {
+    currentFocus: summer 2026 co-op,
+    workingOn:
+    learning:
+    askMeAbout:
+    funFact:
+};
+
+## 💻 Tech Stack
+
+##📫 Let's Connect
 
 <!--
 **chhayaprdn/chhayaprdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
