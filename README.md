@@ -1,5 +1,10 @@
+<div align="left">
+<img
+src="https://pixabay.com/gifs/galaxy-universe-space-stars-1998/"
+  />
+</div>
 <div align="right">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjR6Z2JmbTQwNHRmOHNwb3lrenpiYnFuaXJoaWNoZHM2MHdpbzY0cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wrwRs5SZHfP6E/giphy.gif"width = "100" length = "150"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjR6Z2JmbTQwNHRmOHNwb3lrenpiYnFuaXJoaWNoZHM2MHdpbzY0cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wrwRs5SZHfP6E/giphy.gif"width = "200" length = "300"/>
 </div>
 
 ## Hi there 👋, I'm Chhaya Pradhan
