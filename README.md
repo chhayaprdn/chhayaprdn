@@ -1,6 +1,6 @@
 <div align="left">
 <img
-src="[https://pixabay.com/gifs/galaxy-universe-space-stars-1998/](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTAxMXBydG56N2dwOXc3c2tscjc3amI1Mzl3ZXFwZzZrY3ZzNnZvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iicDrNGWxHmDrIni6j/giphy.gif)"
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTAxMXBydG56N2dwOXc3c2tscjc3amI1Mzl3ZXFwZzZrY3ZzNnZvdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iicDrNGWxHmDrIni6j/giphy.gif"
   />
 </div>
 <div align="right">
