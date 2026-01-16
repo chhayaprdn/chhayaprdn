@@ -1,6 +1,9 @@
 <div align="left"><img
 src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bW1lNDg3aHd0dXNmNWthN2k5MTRuN3d5YnJrNW4wMjQwb3JxeDQ3cyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/xTk9ZYl3z6MYq6XmXm/giphy.gif" width="750" height="170"/>
 </div>
+<div align="right"><img
+src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmE1b3A1YnA1OWNuemVjZGh2Z2IzZ2hudmRiaXdrcjVyemp3NHJ1ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wrwRs5SZHfP6E/giphy.gif"
+width="125" height = "200" />
 
 ## Hi there 👋, I'm Chhaya Pradhan
 
