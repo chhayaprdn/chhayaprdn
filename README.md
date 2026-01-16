@@ -1,5 +1,5 @@
 <div align="left"><img
-src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjF1Y3BwaHE2bnozN3A4ZTNrazBiN2tkZzBoNDg2d3M1eWxha3k3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2WH6sqGKm027uq1Q9G/giphy.gif" width="500"/>
+src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2d3MjJseGdpMms2M3VuaXZ4ZHdudTY3YXljOWJ1NmZrM2JjYjI5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FY9chKp6rulXy/giphy.gif" width="750" length="250"/>
 </div>
 
 ## Hi there 👋, I'm Chhaya Pradhan
