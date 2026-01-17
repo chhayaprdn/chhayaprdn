@@ -1,13 +1,6 @@
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: none;">
-<tr>
-<td width="75%" style="border: none; padding: 0;">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3Y4cWY1cTNyeDdrZDhvdWFnNndiam53OWp5MXdiMWZlaXZkNG40byZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/FY9chKp6rulXy/giphy.gif" width="100%" height="200" style="object-fit: cover; display: block;"/>
-</td>
-<td width="25%" style="border: none; padding: 0;">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmE1b3A1YnA1OWNuemVjZGh2Z2IzZ2hudmRiaXdrcjVyemp3NHJ1ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wrwRs5SZHfP6E/giphy.gif" width="100%" height="200" style="object-fit: cover; display: block;"/>
-</td>
-</tr>
-</table>
+<div align="left">
+<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3Y4cWY1cTNyeDdrZDhvdWFnNndiam53OWp5MXdiMWZlaXZkNG40byZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/FY9chKp6rulXy/giphy.gif" width="800" height="150"/>
+</div>
 
 ## Hi there 👋, I'm Chhaya Pradhan
 
