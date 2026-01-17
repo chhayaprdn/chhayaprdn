@@ -1,7 +1,3 @@
-<div align="left">
-<img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3d3Y4cWY1cTNyeDdrZDhvdWFnNndiam53OWp5MXdiMWZlaXZkNG40byZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/FY9chKp6rulXy/giphy.gif" width="800" height="150"/>
-</div>
-
 ## Hi there 👋, I'm Chhaya Pradhan
 
 ## 🚀 What I'm Up To
