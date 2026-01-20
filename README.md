@@ -1,18 +1,17 @@
 <img src="universe.jpg" width="100%" height="220" style="object-fit: cover; display: block;"/>
 
-## Hi there! 👋 I'm Chhaya Pradhan
-<div align+"right "><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3cxaGJ3ZDl5eTZuZXhpd3Y2cHUxbmo5aW5meXJ2ZHl0aTFnOHY2ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1k2wqydP23uNdHqOqT/giphy.gif" width="100" height="150"/> 
+<div style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;">
+# Hi there! 👋 I'm Chhaya Pradhan
+<div align="right "><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3cxaGJ3ZDl5eTZuZXhpd3Y2cHUxbmo5aW5meXJ2ZHl0aTFnOHY2ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1k2wqydP23uNdHqOqT/giphy.gif" width="100" height="150"/> 
 </div>
-
-## 🚀 About me
-I'm a Computer Science student at Simon Fraser University  
+I'm Computer Science student at Simon Fraser University  
 Looking for a Summer 2026 Co-op right now :)
 
 ## 💻 Skills
-Languages: Python • JavaScript • C • Java • SQL • HTML • CSS \
-Frontend: React • Next.js \
-Backend: Node.js • Express • .NET \
-Databases: • Supabase • MongoDB \
+**Languages:** Python • JavaScript • C • Java • SQL • HTML • CSS \
+**Frontend:** React • Next.js \
+**Backend:** Node.js • Express • .NET \
+**Databases:** Supabase • MongoDB 
 
 ## 📫 You can reach me at:
 <p align="center">
@@ -24,7 +23,8 @@ Databases: • Supabase • MongoDB \
     <img src="https://img.icons8.com/color/96/000000/gmail-new.png" width="60" height="60"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-
+</p>
+</div>
 
 <!--
 **chhayaprdn/chhayaprdn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
