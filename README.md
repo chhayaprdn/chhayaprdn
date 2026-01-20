@@ -1,11 +1,12 @@
-<img src="universe.jpg" width="100%" height="220" style="object-fit: cover; display: block;"/>
+<img src="universe.jpg" width="100%" height="180" style="object-fit: cover; display: block;"/>
 
-<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2p2a2FvOHJ2YTRvZ3c5YTAyZWw4ODhyM3p2bXVnOGw1MmxxanhmNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lcySniEYmSi5B9wfi0/giphy.gif" width="170" style="margin-left: 40px;" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3cxaGJ3ZDl5eTZuZXhpd3Y2cHUxbmo5aW5meXJ2ZHl0aTFnOHY2ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1k2wqydP23uNdHqOqT/giphy.gif" width="170" style="margin-left: 40px;" />
 
 ## Hi there! 👋 I'm Chhaya Pradhan
 
-I'm a Computer Science student at Simon Fraser University  
-Looking for a **Summer 2026 Co-op** right now :)
+I'm a Computer Science student at Simon Fraser University \
+I’m currently focused on strengthening my technical skills through personal projects\
+Looking for a Summer 2026 Co-op right now :)
 
 ### 💻 Skills
 **Languages:** Python · JavaScript · C · Java · SQL · HTML · CSS  
