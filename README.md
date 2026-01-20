@@ -17,7 +17,7 @@ Looking for a **Summer 2026 Co-op** right now :)
 
    </td>
    <td align="right">
-     <img src="toothless.png" width="150">
+     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZkYmRiZHd5OGx0dmJsbm91aHV0ODl1NnpweGVzejc4aGpoMWJpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1yTgtHaRuuaFWUWk7Q/giphy.gif" width="150">
    </td>
   </tr>
 </table>
