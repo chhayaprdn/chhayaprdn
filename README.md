@@ -15,7 +15,7 @@ Looking for a Summer 2026 Co-op right now :)
 
 <br clear="right"/>
 <img 
-src="skills-meter.svg" width="120" height="120" />
+src="skills-meter.svg" width="200" height="200" />
 
 ## 📫 You can reach me at:
 <p align="center">
