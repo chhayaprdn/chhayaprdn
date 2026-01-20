@@ -1,3 +1,5 @@
+<img src="your-image-name.gif" width="100%" height="200" style="object-fit: cover; display: block;"/>
+
 ## Hi there 👋, I'm Chhaya Pradhan
 
 ## 🚀 What I'm Up To
