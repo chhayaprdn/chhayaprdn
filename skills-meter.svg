@@ -1,0 +1,57 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .skill-label { font-family: 'Segoe UI', Arial, sans-serif; font-size: 18px; fill: #e0e0e0; font-weight: 600; }
+      .skill-bar-bg { fill: #2d2d2d; rx: 8; }
+      .skill-bar { rx: 8; }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="600" height="400" fill="#1a1a1a"/>
+  
+  <!-- Title -->
+  <text x="300" y="35" font-family="'Segoe UI', Arial, sans-serif" font-size="24" fill="#ffffff" font-weight="bold" text-anchor="middle">Programming Languages</text>
+  
+  <!-- Java (90%) -->
+  <text x="20" y="85" class="skill-label">Java</text>
+  <rect x="150" y="65" width="420" height="30" class="skill-bar-bg"/>
+  <rect x="150" y="65" width="378" height="30" fill="#5382a1" class="skill-bar"/>
+  <text x="540" y="85" font-family="Arial" font-size="16" fill="#ffffff" font-weight="bold">90%</text>
+  
+  <!-- Python (80%) -->
+  <text x="20" y="135" class="skill-label">Python</text>
+  <rect x="150" y="115" width="420" height="30" class="skill-bar-bg"/>
+  <rect x="150" y="115" width="336" height="30" fill="#3776ab" class="skill-bar"/>
+  <text x="540" y="135" font-family="Arial" font-size="16" fill="#ffffff" font-weight="bold">80%</text>
+  
+  <!-- JavaScript (70%) -->
+  <text x="20" y="185" class="skill-label">JavaScript</text>
+  <rect x="150" y="165" width="420" height="30" class="skill-bar-bg"/>
+  <rect x="150" y="165" width="294" height="30" fill="#f7df1e" class="skill-bar"/>
+  <text x="540" y="185" font-family="Arial" font-size="16" fill="#ffffff" font-weight="bold">70%</text>
+  
+  <!-- HTML/CSS (70%) -->
+  <text x="20" y="235" class="skill-label">HTML/CSS</text>
+  <rect x="150" y="215" width="420" height="30" class="skill-bar-bg"/>
+  <rect x="150" y="215" width="294" height="30" fill="#e34c26" class="skill-bar"/>
+  <text x="540" y="235" font-family="Arial" font-size="16" fill="#ffffff" font-weight="bold">70%</text>
+  
+  <!-- TypeScript (70%) -->
+  <text x="20" y="285" class="skill-label">TypeScript</text>
+  <rect x="150" y="265" width="420" height="30" class="skill-bar-bg"/>
+  <rect x="150" y="265" width="294" height="30" fill="#3178c6" class="skill-bar"/>
+  <text x="540" y="285" font-family="Arial" font-size="16" fill="#ffffff" font-weight="bold">70%</text>
+  
+  <!-- C++ (55%) -->
+  <text x="20" y="335" class="skill-label">C++</text>
+  <rect x="150" y="315" width="420" height="30" class="skill-bar-bg"/>
+  <rect x="150" y="315" width="231" height="30" fill="#00599c" class="skill-bar"/>
+  <text x="540" y="335" font-family="Arial" font-size="16" fill="#ffffff" font-weight="bold">55%</text>
+  
+  <!-- SQL (55%) -->
+  <text x="20" y="385" class="skill-label">SQL</text>
+  <rect x="150" y="365" width="420" height="30" class="skill-bar-bg"/>
+  <rect x="150" y="365" width="231" height="30" fill="#cc2927" class="skill-bar"/>
+  <text x="540" y="385" font-family="Arial" font-size="16" fill="#ffffff" font-weight="bold">55%</text>
+</svg>
