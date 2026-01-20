@@ -11,7 +11,9 @@ Looking for a Summer 2026 Co-op right now :)
 ### 💻 Skills
 **Languages:** Python · JavaScript · C · Java · SQL · HTML · CSS  
 **Full Stack:** React · Next.js · Node.js · Express · .NET  
-**Databases:** Supabase · MongoDB  
+**Databases:** Supabase · MongoDB 
+<img 
+src="skills-meter.svg" />
 
 <br clear="right"/>
 
