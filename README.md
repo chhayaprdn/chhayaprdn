@@ -1,4 +1,4 @@
-<img src="universe.jpg" width="100%" height="250" style="object-fit: cover; display: block;"/>
+<img src="universe.jpg" width="100%" height="220" style="object-fit: cover; display: block;"/>
 
 ## Hi there! 👋 I'm Chhaya Pradhan
 
@@ -7,12 +7,11 @@ I'm a Computer Science student at Simon Fraser University
 Looking for a Summer 2026 Co-op right now :)
 
 ## 💻 Skills
-skills = {  
-"languages": ["Python", "JavaScript", "TypeScript", "C", "Java", "SQL"],  
-    "frontend": ["React", "Next.js", "HTML/CSS"],  
-    "backend": ["Node.js", "Express", ".NET"],  
-    "databases": ["PostgreSQL", "MongoDB", "SQL Server"],
-}<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3cxaGJ3ZDl5eTZuZXhpd3Y2cHUxbmo5aW5meXJ2ZHl0aTFnOHY2ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1k2wqydP23uNdHqOqT/giphy.gif" width="100" height="150"/> 
+Languages: Python • JavaScript • C • Java • SQL • HTML • CSS
+Frontend: React • Next.js
+Backend: Node.js • Express • .NET
+Databases: • Supabase • MongoDB 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3cxaGJ3ZDl5eTZuZXhpd3Y2cHUxbmo5aW5meXJ2ZHl0aTFnOHY2ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1k2wqydP23uNdHqOqT/giphy.gif" width="100" height="150"/> 
 
 ## 📫 You can reach me at:
 <p align="center">
