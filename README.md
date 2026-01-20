@@ -1,4 +1,4 @@
-<img src="universe.jpg" width="100%" height="200" style="object-fit: cover; display: block;"/>
+<img src="universe.jpg" width="100%" height="250" style="object-fit: cover; display: block;"/>
 
 ## Hi there 👋, I'm Chhaya Pradhan
 
