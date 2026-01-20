@@ -12,11 +12,10 @@ Looking for a Summer 2026 Co-op right now :)
 **Languages:** Python · JavaScript · C · Java · SQL · HTML · CSS  
 **Full Stack:** React · Next.js · Node.js · Express · .NET  
 **Databases:** Supabase · MongoDB 
-<img 
-src="skills-meter.svg" />
 
 <br clear="right"/>
-
+<img 
+src="skills-meter.svg" width="120" height="120" />
 
 ## 📫 You can reach me at:
 <p align="center">
