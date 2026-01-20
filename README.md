@@ -1,8 +1,8 @@
 <img src="universe.jpg" width="100%" height="220" style="object-fit: cover; display: block;"/>
 
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td valign="top">
 
 ## Hi there! 👋 I'm Chhaya Pradhan
 
@@ -11,16 +11,16 @@ Looking for a **Summer 2026 Co-op** right now :)
 
 ### 💻 Skills
 **Languages:** Python · JavaScript · C · Java · SQL · HTML · CSS  
-**Frontend:** React · Next.js  
-**Backend:** Node.js · Express · .NET  
+**Full Stack:** React · Next.js · Node.js · Express · .NET  
 **Databases:** Supabase · MongoDB
 
-   </td>
-   <td align="right">
-     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZkYmRiZHd5OGx0dmJsbm91aHV0ODl1NnpweGVzejc4aGpoMWJpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1yTgtHaRuuaFWUWk7Q/giphy.gif" width="150">
-   </td>
+    </td>
+    <td align="right" valign="top" width="200">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZkYmRiZHd5OGx0dmJsbm91aHV0ODl1NnpweGVzejc4aGpoMWJpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1yTgtHaRuuaFWUWk7Q/giphy.gif" width="150" />
+    </td>
   </tr>
 </table>
+
 
 ## 📫 You can reach me at:
 <p align="center">
