@@ -1,6 +1,7 @@
 <img src="universe.jpg" width="100%" height="250" style="object-fit: cover; display: block;"/>
 
-## Hi there 👋, I'm Chhaya Pradhan
+## Hi there 👋, I'm Chhaya Pradhan 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3cxaGJ3ZDl5eTZuZXhpd3Y2cHUxbmo5aW5meXJ2ZHl0aTFnOHY2ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/1k2wqydP23uNdHqOqT/giphy.gif" width="100" height="150"/>
 
 ## 🚀 What I'm Up To
 
