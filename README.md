@@ -22,7 +22,6 @@ src="skills-meter.svg" width="200" height="200" />
   <a href="https://www.linkedin.com/in/chhayapradhan">
     <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="60" height="60"/>
   </a>  
-  
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:chhayaprdn@gmail.com">
     <img src="https://img.icons8.com/color/96/000000/gmail-new.png" width="60" height="60"/>
