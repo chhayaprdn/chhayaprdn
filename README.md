@@ -6,7 +6,7 @@
 
 I'm a Computer Science student at Simon Fraser University \
 I’m currently focused on strengthening my technical skills through personal projects\
-Looking for a Summer 2026 Co-op right now :)
+Looking for a 2026 Co-op right now :)
 
 ### 💻 Skills
 **Languages:** Python · JavaScript · C · Java · SQL · HTML · CSS  
